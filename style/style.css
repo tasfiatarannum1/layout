@@ -1,0 +1,43 @@
+.header{
+    height:100px;
+    background-color: black;
+}
+.container{
+    overflow:hidden;
+}
+.contact{
+    height:100px;
+    background-color: aqua;
+    width:20%;
+    float:right;
+}
+.blog{
+    height:100px;
+    background-color: blue;
+    width:20%;
+    float:right;
+   
+}
+.search{
+    height:100px;
+    background-color: brown;
+    width:20%;
+    float:left;
+}
+
+.aboutus{
+    height:100px;
+    background-color: chocolate;
+    width:20%;
+    float:left;
+}
+.option{
+    height: 100px;
+    background-color: cadetblue;
+    width:20%;
+    float:right;
+}
+.footer{
+    height:100px;
+    background-color: crimson;
+}
